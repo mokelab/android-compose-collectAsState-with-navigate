@@ -1,4 +1,4 @@
-package com.mokelab.demo.myapplication
+package com.mokelab.demo.myapplication.good
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

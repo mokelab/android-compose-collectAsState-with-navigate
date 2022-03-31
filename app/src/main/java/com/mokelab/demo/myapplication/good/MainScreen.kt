@@ -5,7 +5,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
-import com.mokelab.demo.myapplication.MainViewModel
 
 @Composable
 fun MainScreen(viewModel: MainViewModel, next: () -> Unit) {
