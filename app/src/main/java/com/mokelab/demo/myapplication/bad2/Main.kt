@@ -1,4 +1,4 @@
-package com.mokelab.demo.myapplication.bad
+package com.mokelab.demo.myapplication.bad2
 
 import androidx.compose.runtime.Composable
 import androidx.lifecycle.viewmodel.compose.viewModel
@@ -7,7 +7,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 
 @Composable
-fun Bad() {
+fun Bad2() {
     val navController = rememberNavController()
 
     NavHost(navController = navController, startDestination = "main") {
